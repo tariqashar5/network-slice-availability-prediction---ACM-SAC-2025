@@ -84,6 +84,8 @@ If you use this code, dataset, or findings in your work, please cite the followi
 For questions, collaboration, or additional details, feel free to reach out:
 
 - 📧 Muhammad Ashar Tariq — [tariqashar5@gmail.com](mailto:tariqashar5@gmail.com)
+- 🔗 LinkedIn — [linkedin.com/in/tariqashar5](https://www.linkedin.com/in/tariqashar5)
+
 
 ---
 
